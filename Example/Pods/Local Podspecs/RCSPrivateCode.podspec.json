@@ -1,0 +1,25 @@
+{
+  "name": "RCSPrivateCode",
+  "version": "0.1.0",
+  "summary": "A private code.",
+  "description": "This is a private pod testing code.",
+  "homepage": "https://github.com/a1252425/RCSPrivateCode",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "shuai shao": "shaoshuai@rongcloud.cn"
+  },
+  "source": {
+    "git": "https://github.com/a1252425/RCSPrivateCode.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "RCSPrivateCode/Classes/**/*",
+  "resources": [
+    "RCSPrivateCode/Assets/RongCloud.bundle"
+  ]
+}

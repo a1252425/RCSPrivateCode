@@ -1,0 +1,6 @@
+framework module RCSPrivateCode {
+  umbrella header "RCSPrivateCode-umbrella.h"
+
+  export *
+  module * { export * }
+}

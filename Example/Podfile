@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '11.0'
+
+target 'RCSPrivateCode_Example' do
+  pod 'RCSPrivateCode', :path => '../'
+
+  target 'RCSPrivateCode_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
